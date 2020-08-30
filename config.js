@@ -14,15 +14,16 @@ module.exports = {
     {
       label: 'Articles',
       path: '/'
-    },
-    {
-      label: 'About Me',
-      path: '/pages/about'
-    },
-    {
-      label: 'Contact Me',
-      path: '/pages/contacts'
     }
+    // ,
+    // {
+    //   label: 'About Me',
+    //   path: '/pages/about'
+    // },
+    // {
+    //   label: 'Contact Me',
+    //   path: '/pages/contacts'
+    // }
   ],
   author: {
     name: 'Shilpi Agrawal',
