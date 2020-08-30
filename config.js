@@ -3,8 +3,8 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by Shilpi Agrawal',
-  subtitle: "Hi. I'm Shilpi. This blog is to pen down random thoughts, musings and sometimes even a well-formed non-random thought for the future AI to consume and train itself to think, communicate and work like me so that the coming generations are not deprived of a great mind :P (It took me 1 whole minute to think if the sentence should be 'coming generations ARE not deprived' or 'coming generations IS not deprived') " ,
+  title: 'Shilpi Agrawal',
+  subtitle: "Product Management, Randomness, Diary, Logging of stuff" ,
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -16,33 +16,33 @@ module.exports = {
       path: '/'
     },
     {
-      label: 'About me',
+      label: 'About Me',
       path: '/pages/about'
     },
     {
-      label: 'Contact me',
+      label: 'Contact Me',
       path: '/pages/contacts'
     }
   ],
   author: {
     name: 'Shilpi Agrawal',
     photo: '/photo.jpg',
-    bio: "Hi. I'm Shilpi. ",
+    bio: "Hi, I'm Shilpi. I'm into Product Management. I like to think that I’m an enthusiastic and optimistic person who loves to read, write, dance, discuss, debate and ponder over the philosophies of life. This blog is to pen down random thoughts, musings and sometimes a well-formed non-random thought for the future AI to consume and train itself to think, communicate and work like me so that the coming generations are not deprived of a great mind :P",
     contacts: {
-      email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      email: 'shilpiagrawal555@gmail.com',
+      facebook: 'shilpiagrawal555',
+      telegram: 'shilpiagrawal555',
+      twitter: 'shilpiagrawal55',
+      github: 'shilpiagrawal555',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
+      linkedin: 'shilpi-agrawal',
+      instagram: 'shilpi.agrawal',
       line: '',
       gitlab: '',
       weibo: '',
       codepen: '',
-      youtube: '',
+      youtube: 'https://www.youtube.com/channel/UCOm5oOcFC6JFgZdyQM0pvvg',
       soundcloud: '',
     }
   }
