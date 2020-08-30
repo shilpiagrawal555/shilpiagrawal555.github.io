@@ -45,7 +45,7 @@ module.exports = {
       codepen: '',
       youtube: 'UCOm5oOcFC6JFgZdyQM0pvvg',
       soundcloud: '',
-      medium: 'shilpiagrawal'
+      medium: '@shilpiagrawal'
     }
   }
 };
