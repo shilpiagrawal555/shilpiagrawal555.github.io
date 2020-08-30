@@ -3,8 +3,8 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Blog by Shilpi Agrawal',
+  subtitle: "Hi. I'm Shilpi. This blog is to pen down random thoughts, musings and sometimes even a well-formed non-random thought for the future AI to consume and train itself to think, communicate and work like me so that the coming generations are not deprived of a great mind :P (It took me 1 whole minute to think if the sentence should be 'coming generations ARE not deprived' or 'coming generations IS not deprived') " ,
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -25,9 +25,9 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Shilpi Agrawal',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: "Hi. I'm Shilpi. ",
     contacts: {
       email: '',
       facebook: '#',
