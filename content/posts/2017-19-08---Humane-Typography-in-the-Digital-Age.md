@@ -1,5 +1,5 @@
 ---
-title: LinkedIn Product: Why I Avoid Using LinkedIn
+title: Why I Avoid Using LinkedIn
 date: "2020-08-31T22:40:32.169Z"
 template: "post"
 draft: false
