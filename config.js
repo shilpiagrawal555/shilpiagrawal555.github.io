@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
   title: 'Shilpi Agrawal',
-  subtitle: "Product Management, Randomness, Diary, Logging of stuff" ,
+  subtitle: "Blog of poems, experiences, product management, personal opinions" ,
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -29,7 +29,7 @@ module.exports = {
   author: {
     name: 'Shilpi Agrawal',
     photo: '/photo.jpg',
-    bio: "Hi, I'm Shilpi. I love building products from the ground up. Have been in product development & management since 2017 after graduating from BITS Pilani. I like to think that I’m an enthusiastic and optimistic person who loves to read, write, dance, discuss, debate and ponder over the philosophies of life. Feel free to drop me a mail in case you wish to get in touch. Welcome to My Space!",
+    bio: "Hi, I'm Shilpi. I love building products from the ground up. Have been in product development & management since 2017 after graduating from BITS Pilani. I like to think that I’m an enthusiastic and optimistic person who loves to read, write, dance, discuss, debate and ponder over the philosophies of life. Feel free to drop me a mail in case you wish to get in touch!",
     contacts: {
       email: 'shilpiagrawal555@gmail.com',
       facebook: 'shilpiagrawal555',
