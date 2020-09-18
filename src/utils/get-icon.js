@@ -51,7 +51,8 @@ const getIcon = (name: string) => {
       icon = ICONS.SOUNDCLOUD;
       break;
     case 'medium':
-      icon = ICONS.MEDIUM;  
+      icon = ICONS.MEDIUM;
+      break;  
     default:
       icon = {};
       break;
