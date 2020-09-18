@@ -15,7 +15,7 @@ tags:
   - "Bangalore"
   - "Personal"
 description: "This is a short personal note I wrote when I moved to Bangalore from Gurgaon. Gurgaon, of course, has always topped the pollution charts but this note summarizes what it meant for me."
-socialImage: "/media/badal.jpg"
+socialImage: "/media/moving1.jpg"
 ---
    
    
