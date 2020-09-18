@@ -19,7 +19,7 @@ tags:
   - "UX"
   - "Pain"
   - "Empathy"
-description: " "
+description: "Coming Soon. Stay Tuned!"
 socialImage: "/media/42-line-bible.jpg"
 ---
 
