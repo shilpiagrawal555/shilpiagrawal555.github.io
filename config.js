@@ -7,7 +7,7 @@ module.exports = {
   subtitle: "Blog of poems, experiences, product management, personal opinions" ,
   copyright: 'Content © 2020 Shilpi Agrawal ',
   disqusShortname: '',
-  postsPerPage: 4,
+  postsPerPage: 10,
   googleAnalyticsId: 'UA-73379983-2',
   useKatex: false,
   menu: [
