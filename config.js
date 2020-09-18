@@ -5,7 +5,7 @@ module.exports = {
   pathPrefix: '/',
   title: 'Shilpi Agrawal',
   subtitle: "Blog of poems, experiences, product management, personal opinions" ,
-  copyright: '© All rights reserved.',
+  copyright: 'Content © 2020 Shilpi Agrawal ',
   disqusShortname: '',
   postsPerPage: 4,
   googleAnalyticsId: 'UA-73379983-2',

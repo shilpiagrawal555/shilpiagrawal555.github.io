@@ -3,7 +3,7 @@ title: Auf Wiedersehen, Gurgaon!
 date: "2019-03-17T00:00:00.001Z"
 template: "post"
 draft: false
-slug: "until-next-time-gurgaon"
+slug: "auf-wiedersehen-gurgaon"
 category: "Personal Experiences"
 tags:
   - "Experience"

@@ -1,18 +1,12 @@
 ---
 title: "About me"
 template: "page"
-socialImage: "/media/image-2.jpg"
+socialImage: "/media/image-shilpi.jpg"
 ---
-<!-- 
-Hi, I'm Shilpi. Savant helped me build this. 
-
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
-
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
-
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus -->
-
   
-<h2>Résumé</h2>
+<h2>Résumé</h2> 
+>
+
+[Link for Mobile Viewing](https://drive.google.com/file/d/1f2-hbcJMa19x1wnLcMFauUGkPyJpJWXO/view?usp=sharing)
 
 <embed src="/Shilpi_Agrawal_Product_CV_2020_09_18.pdf" width="800px" height="1200px" />
