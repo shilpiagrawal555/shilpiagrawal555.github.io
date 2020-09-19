@@ -5,7 +5,6 @@ socialImage: "/media/image-shilpi.jpg"
 ---
   
 <h2>Résumé</h2> 
->
 
 [Link for Mobile Viewing](https://drive.google.com/file/d/1f2-hbcJMa19x1wnLcMFauUGkPyJpJWXO/view?usp=sharing)
 
