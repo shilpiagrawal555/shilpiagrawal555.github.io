@@ -1,10 +1,10 @@
 ---
-title: Imposter Syndrome - My Ways To Deal
+title: My Ways To Deal With Imposter Syndrome
 date: "2021-06-15T00:00:00.001Z"
 template: "post"
 draft: false
 slug: "imposter-syndrome"
-category: "PERSONAL EXPERIENCES"
+category: "SELF IMPROVEMENT"
 tags:
   - "skills"
   - "career"
@@ -15,8 +15,9 @@ tags:
   - "fate"
   - "karma"
   - "confidence"
+  - "dark patterns"
 
-description: "Do you sometimes doubt your skills or competence? Do you think others perceive you to be more intelligent than you really are? Do you feel like an imposter or fraud when you achieve something? Like somehow you didn't do anything to deserve that success. Like somehow you just happened to be at the right place at the right time. Do you attribute your achievements primarily to luck or coincidence? If the answer is yes - then, my friend, you sometimes experience imposter syndrome. In this post, I summarize my ways to tackle my own imposter syndrome.  
+description: "Do you sometimes doubt your skills or competence? Do you think others perceive you to be more intelligent than you really are? Like someday they would find out that you're not good enough. Do you feel like an imposter or fraud when you achieve something? Like somehow you didn't do anything to deserve that success. Like somehow you just happened to be at the right place at the right time. Do you attribute your achievements primarily to luck or coincidence? If the answer is yes - then, my friend, you sometimes experience imposter syndrome. In this post, I summarize my ways to tackle my own imposter syndrome.  
 "
 ---
 
@@ -34,20 +35,25 @@ description: "Do you sometimes doubt your skills or competence? Do you think oth
 
 
 
-Do you sometimes doubt your skills or competence? Do you think others perceive you to be more intelligent than you really are? Do you feel like an imposter or fraud when you achieve something? Like somehow you didn't do anything to deserve that success. Like somehow you just happened to be at the right place at the right time. Do you attribute your achievements primarily to luck or coincidence? If the answer is yes - then, my friend, you sometimes experience imposter syndrome. In this post, I summarize my ways to tackle my own imposter syndrome. 
+Do you sometimes doubt your skills or competence? Do you think others perceive you to be more intelligent than you really are? Like someday they would find out that you're not good enough. Do you feel like an imposter or fraud when you achieve something? Like somehow you didn't do anything to deserve that success. Like somehow you just happened to be at the right place at the right time. Do you attribute your achievements primarily to luck or coincidence? If the answer is yes - then, my friend, you sometimes experience imposter syndrome. In this post, I summarize my ways to tackle my own imposter syndrome. 
 
 Impostor experience can make you anxious, stressed, or depressed. It can lower your self-confidence. It can make you miss out on exciting opportunities. It can be detrimental to your mental and emotional state. And.. it is a very common phenomenon. 
 
-Not to flex, but recently, I was featured in [Inc42 50 Coolest Women In India’s Product Ecosystem](https://inc42.com/features/the-50-coolest-women-in-indias-product-ecosystem/) and it made me feel like an imposter among the amazing women leaders present here. Like somehow I was not deserving of this limelight. Previously, I have felt like an imposter hiding among the most intelligent folks in college. I pondered about this and came up with my own monologue to encourage myself out of imposter syndrome. 👇 
+Not to flex, but recently, I was featured in [Inc42 50 Coolest Women In India’s Product Ecosystem](https://inc42.com/features/the-50-coolest-women-in-indias-product-ecosystem/) and it made me feel like an imposter among the amazing women leaders present here. Like somehow I was not deserving of this limelight. Previously, I have felt like an imposter hiding among the most intelligent folks in college. 
 
-**Have confidence. Do away the imposter syndrome.** What we get in life is a function of our choices, efforts, surroundings, randomness and a lot of things we have no direct control over. Whatever we get, we get because of a unique combination of these factors. Life decides what to throw at us next with some input (>=0) from us. It all comes together in form of our fate or karma. I'm a staunch believer of किस्मत में लिखा था तो होना ही था - बाकी आगे बढ़ने की कोशिश में मैंने कभी कोई कमी नहीं छोड़ी हैं ना आगे कभी छोडूगी । . We get what is in our fate. Nothing more, nothing less. People don't always get what they want or need or sometimes what they deserve as well. They get what is in their fate to get. Sometimes, you will get f\*cked even if you give your 100% trying to not get f\*cked. Other times, life will shower you with amazing things you never even dreamt of or worked towards directly. **Stop questioning fate. Stop finding reasons behind every good thing.** Stop finding someone or something to blame for every bad thing. Stop thinking about how you got something or why you got something. Focus on the aftermath - what next to do with it. It doesn't matter how why you got something or whether you think you deserve it or not. At the risk of sounding extremely redudant - **Things happen without a reason sometimes. Stop finding reasons. There are none, at times. Things just are. Not good. Not bad. Not because of. They just are. Focus on what you control directly.** 
+_I pondered about this and came up with my own monologue to encourage myself out of imposter syndrome. 👇_
 
+
+**Have confidence. Do away the imposter syndrome.**. "Did I deserve it?" is officially one of the most bullshit questions our mind asks us on everything good and bad. Although I say it for very few questions but "Did I deserve it?" makes the cut. 
+
+_f(what we get) = x1.OurChoices + x2.OurEfforts + x3.Surroundings + x4.Randomness + x5.x6 = fate_
+
+What we get in life is a function of our choices, efforts, surroundings, randomness and a lot of things we have no direct control over. Whatever we get, we get because of a unique combination of these factors. Life decides what to throw at us next with some input (>=0) from us. It all comes together in form of our fate or karma. I'm a staunch believer of किस्मत में लिखा था तो होना ही था - बाकी आगे बढ़ने की कोशिश में मैंने कभी कोई कमी नहीं छोड़ी हैं ना आगे कभी छोडूगी । . We get what is in our fate. Nothing more, nothing less. People don't always get what they want or need or sometimes what they deserve as well. They get what is in their fate to get. Sometimes, you will get f\*cked even if you give your 100% trying to not get f\*cked. Other times, life will shower you with amazing things you never even dreamt of or worked towards directly. **Stop questioning fate. Stop finding reasons behind every good thing. Stop finding someone or something to blame for every bad thing.** Stop thinking about how you got something or why you got something. Focus on the aftermath - what next to do with it. It doesn't matter how why you got something or whether you think you deserve it or not. At the risk of sounding extremely redudant - **Things happen without a reason sometimes. Stop finding reasons. There are none, at times. Things just are. Not good. Not bad. Not because of. They just are. Focus on what you control directly.** 
 So, let's say you got something amazing unexpectedly. **Stop thinking detrimentally about yourself.** Take a deep breath, smile and accept what you got. Humility, kindness and gratefulness go a long way. Have faith in yourself. **You got it. Use it. End of story.** 
-
 Yes, it doesn't matter if you got that IIT seat because of reservation / quota. Yes, it doesn't matter if others think you got that job just because you're a female (diversity) candidate. Even if that's true, it doesn't matter. [Getting a job is anyway a highly nuanced process full of randomness and ability to network and showcase oneself]. Yes, it doesn't matter if others think you get those followers because of your gender and not because of your content. Yes, it doesn't matter if others think your startup is successful only because you are rich. How you land an opportunity is highly nuanced and irrelevant. There is no outcome in the pursuit of reason here. You don't define all the rules. You don't know all the rules. And not everything will fit, no matter how much you try to make everything fit into blocks called "reasons"
 
 To quote my 17-year old self 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fshilpiagrawal555%2Fposts%2F4832276213106&show_text=true&width=500" width="500" height="80" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fshilpiagrawal555%2Fposts%2F4832276213106&show_text=true&width=500" width="500" height="100" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 _Damn I was more sassy back then :P_
 
