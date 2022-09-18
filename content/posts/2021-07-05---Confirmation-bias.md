@@ -2,7 +2,7 @@
 title: Confirmation Bias (BS Stories We Tell Ourselves)
 date: "2021-07-05T00:00:00.001Z"
 template: "post"
-draft: false
+draft: true
 slug: "confirmation-bias"
 category: "SELF IMPROVEMENT"
 tags:

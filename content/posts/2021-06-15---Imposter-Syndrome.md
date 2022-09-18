@@ -74,7 +74,7 @@ I'm going to end this post with my favourite analogy to think of imposter syndro
 
 
 <figure class="float-center" style='width: 100%'>
-  <img src="/media/original-imposter1.png" >
+  <img src="/media/original-imposter1.jpg" >
   <figcaption> original note in my personal notion to act as a reminder to myself
    <figcaption>
 </figure> 
