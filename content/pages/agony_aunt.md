@@ -16,7 +16,7 @@ I don't know how to plan so that me, my kids, my love life, my career and my par
 
 choosing career is so hard. making money is hard too.</p>
 
-<embed src="/agony_aunt_letters/1_eternallyconfused_career.pdf" width="800px" height="1200px" />
+<img src="/agony_aunt_letters/1_eternallyconfused_career.jpeg"  />
 
 <hr>
 
@@ -24,7 +24,10 @@ choosing career is so hard. making money is hard too.</p>
 <p>futility of work jyada lag rahi hai. conviction to hai hi nahi but can't get to the feeling that it's just my work and I don't have to derive all my meaning from it only 
 </p>
 
-<embed src="/agony_aunt_letters/2_bitsstudent_career.pdf" width="800px" height="1200px" />
+<body><img src="/agony_aunt_letters/2_1_bitsstudent_career.jpeg" style=margin: 5px 5px 5px 5px; />
+
+<img src="/agony_aunt_letters/2_2_bitsstudent_career.jpeg"  /></body>
+
 
 <hr>
 
@@ -36,7 +39,11 @@ also during my 11 and 12 they never asked me what tuitions i m going to , i went
 
 </p>
 
-<embed src="/agony_aunt_letters/3_xyz.pdf" width="800px" height="1200px" />
+<body><img src="/agony_aunt_letters/3_1_xyz.jpeg"  style=margin: 5px 5px 5px 5px; />
+<img src="/agony_aunt_letters/3_2_xyz.jpeg" style=margin: 5px 5px 5px 5px; />
+<img src="/agony_aunt_letters/3_3_xyz.jpeg" style=margin: 5px 5px 5px 5px;  /></body>
+
+
 
 
 <!-- 
