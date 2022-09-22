@@ -35,22 +35,22 @@ module.exports = {
     photo: '/photo-shilpi.jpg',
     bio: "Hi, I'm Shilpi. I love building products from the ground up. Have been in product development & management since 2017 after graduating from BITS Pilani. I like to think that I’m an enthusiastic and optimistic person who loves to read, write, dance, discuss, debate and ponder over the philosophies of life. Feel free to drop me a mail in case you wish to get in touch!",
     contacts: {
-      email: 'shilpiagrawal555@gmail.com',
-      facebook: 'shilpiagrawal555',
-      telegram: '',
+      email: 'shilpi@iamshilpi.com',
+      facebook: '',
+      telegram: 'shilpiagrawal555',
       twitter: 'shilpiagrawal55',
       github: '',
       rss: '',
       vkontakte: '',
       linkedin: 'shilpi-agrawal',
-      instagram: '',
+      instagram: 'shilpi.agrawal',
       line: '',
       gitlab: '',
       weibo: '',
       codepen: '',
       youtube: 'UCOm5oOcFC6JFgZdyQM0pvvg',
       soundcloud: '',
-      medium: '@shilpiagrawal'
+      medium: ''
     }
   }
 };
