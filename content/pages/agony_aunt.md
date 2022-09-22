@@ -8,6 +8,10 @@ socialImage: "/media/image-shilpi.jpg"
 <h2><a href="https://docs.google.com/forms/d/e/1FAIpQLSe1_3BsgumBwHLW0HPBoMudRgVEoCPj3sPGVTV6LZDz2ziWHg/viewform" target="_blank">
 Submit your problem to get a response from Agony Aunt</a></h2>
 
+<h2><a href="https://agonyaunt.substack.com/" target="_blank">
+Subscribe to my Substack</a></h2>
+
+
 <hr>
 <h3>Letter from eternally confused</h3>
 <p>You are doing gods work. I have some so much agony angst frustration with not being able to decide direction of my life. 
