@@ -20,7 +20,7 @@ export default function HTML(props) {
           id="___gatsby"
           dangerouslySetInnerHTML={{ __html: props.body }}
         />
-        {props.postBodyComponents} // shilpi inserting intercom script
+        {props.postBodyComponents} 
                
                <script
           dangerouslySetInnerHTML={{
