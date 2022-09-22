@@ -18,6 +18,9 @@ choosing career is so hard. making money is hard too.</p>
 
 <img src="/agony_aunt_letters/1_eternallyconfused_career.jpeg"  />
 
+[Link for PDF](https://drive.google.com/file/d/1lNyZRNxCYW5T4mKD_eHfQtPq1v8yhLvh/view?usp=sharing) 
+
+
 <hr>
 
 <h3>Letter from bits 3rd year student with a 5 year course. want to get out of it 😩</h3>
@@ -27,6 +30,9 @@ choosing career is so hard. making money is hard too.</p>
 <body><img src="/agony_aunt_letters/2_1_bitsstudent_career.jpeg" style=margin: 5px 5px 5px 5px; />
 
 <img src="/agony_aunt_letters/2_2_bitsstudent_career.jpeg"  /></body>
+
+[Link for PDF](https://drive.google.com/file/d/1KhD-lQLpsSWebX97mtLm1IojPXFWON__/view?usp=sharing) 
+
 
 
 <hr>
@@ -42,6 +48,9 @@ also during my 11 and 12 they never asked me what tuitions i m going to , i went
 <body><img src="/agony_aunt_letters/3_1_xyz.jpeg"  style=margin: 5px 5px 5px 5px; />
 <img src="/agony_aunt_letters/3_2_xyz.jpeg" style=margin: 5px 5px 5px 5px; />
 <img src="/agony_aunt_letters/3_3_xyz.jpeg" style=margin: 5px 5px 5px 5px;  /></body>
+
+[Link for PDF](https://drive.google.com/file/d/1-Zz1FHUeq2wFtWFWv89fTyOg7uxxgqJf/view?usp=sharing) 
+
 
 
 
