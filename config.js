@@ -23,6 +23,10 @@ module.exports = {
     {
       label: 'Connect',
       path: '/pages/connect'
+    },
+    {
+      label: 'Agony Aunt',
+      path: '/pages/agony_aunt'
     }
     // ,
     // {
