@@ -27,6 +27,10 @@ module.exports = {
     {
       label: 'Agony Aunt',
       path: '/pages/agony_aunt'
+    },
+    {
+      label: 'Rishta Matchmaking',
+      path: '/pages/rishta_matchmaking'
     }
     // ,
     // {
