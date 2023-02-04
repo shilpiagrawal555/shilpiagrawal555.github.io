@@ -5,8 +5,8 @@ socialImage: "/media/image-shilpi.jpg"
 ---
   
 
-<h2><a href="https://forms.gle/eiqUpJBgKmtJMJgL6" target="_blank">
-Fill the form if you wish to get in touch with me :) </a></h2>
+<h2><a href="https://topmate.io/shilpi" target="_blank">
+Get in touch with me </a></h2>
 
 
 <!-- Calendly inline widget begin -->
