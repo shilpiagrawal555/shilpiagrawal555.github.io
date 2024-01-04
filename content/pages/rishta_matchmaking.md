@@ -8,6 +8,8 @@ socialImage: "/media/image-shilpi.jpg"
 <!-- <h2><a href="https://forms.gle/SvESLTbTx5cfmekj7" target="_blank">
 Fill the form if you're single and open to meet matches</a></h2> -->
 
+<h2>Pls visit <a href="www.rishtamatchmaking.com" target="_blank"> rishtamatchmaking.com</a></h2>
+
 <h4> Hey there! 👋
 
 Looking to get married soon? Tired of swiping? Left on seen? Afraid of creeps? Want to meet people without the family pressure? 

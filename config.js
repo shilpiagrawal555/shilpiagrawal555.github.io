@@ -31,6 +31,10 @@ module.exports = {
     {
       label: 'Rishta Matchmaking',
       path: '/pages/rishta_matchmaking'
+    },
+    {
+      label: 'Product',
+      path: '/pages/product'
     }
     // ,
     // {
