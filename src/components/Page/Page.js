@@ -1,6 +1,10 @@
 import React, { useRef, useEffect } from 'react';
 import styles from './Page.module.scss';
 
+import Helmet from "react-helmet";
+import { withPrefix } from "gatsby";
+
+
 type Props = {
   title?: string,
   children: React.Node
@@ -14,6 +18,11 @@ const Page = ({ title, children }: Props) => {
   });
 
   return (
+    <>
+    <Helmet>
+      <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    </Helmet>
+
     <div ref={pageRef} className={styles['page']}>
       <div className={styles['page__inner']}>
         { title && <h1 className={styles['page__title']}>{title}</h1>}
@@ -22,6 +31,7 @@ const Page = ({ title, children }: Props) => {
         </div>
       </div>
     </div>
+    </>
   );
 };
 
