@@ -5,6 +5,15 @@ socialImage: "/media/image-shilpi.jpg"
 ---
   
 
+
+
+<h2>Résumé</h2> 
+
+[Link for Mobile Viewing](https://drive.google.com/file/d/1H20Vmtli8wbpCutjiOuoASLV_i_iDHss/view?usp=sharing)
+
+<!-- <embed src="/Shilpi_Agrawal_Product_CV_2024_01_04.pdf" width="800px" height="1200px" /> -->
+<iframe src="https://drive.google.com/file/d/1H20Vmtli8wbpCutjiOuoASLV_i_iDHss/preview" width="800" height="1200" allow="autoplay"></iframe>
+
 <h2>Professionally</h2> 
 
 <blockquote height:1000px  class="twitter-tweet" data-lang="en" data-theme="dark" > <p lang="en" dir="ltr">
@@ -39,10 +48,3 @@ I am an Indian female (she/her) mechanical (actually manufacturing) engineer who
 I am sure braveness/risk taking isn’t my P0 problem to solve.
 
 </p>&mdash; Shilpi Agrawal (@shilpiagrawal55) <a href="https://twitter.com/shilpiagrawal55/status/1738722714297438599?ref_src=twsrc%5Etfw">December 24, 2023</a></blockquote> 
-
-<h2>Résumé</h2> 
-
-[Link for Mobile Viewing](https://drive.google.com/file/d/1H20Vmtli8wbpCutjiOuoASLV_i_iDHss/view?usp=sharing)
-
-<embed src="/Shilpi_Agrawal_Product_CV_2024_01_04.pdf" width="800px" height="1200px" />
-

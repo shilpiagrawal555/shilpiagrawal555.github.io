@@ -1,8 +1,8 @@
 ---
-title: Confirmation Bias (BS Stories We Tell Ourselves)
-date: "2021-07-05T00:00:00.001Z"
+title: Confirmation Bias (Stories We Tell Ourselves Matter)
+date: "2024-12-30T00:00:00.001Z"
 template: "post"
-draft: true
+draft: false
 slug: "confirmation-bias"
 category: "SELF IMPROVEMENT"
 tags:
@@ -64,7 +64,7 @@ Wrapping up. Would also advice to read about [Zohrenism](https://en.wikipedia.or
 
 
 
- *Originally published by [Shilpi Agrawal](https://twitter.com/shilpiagrawal55) here itself. Written in quick 15 minutes.*
+ *Originally written by [Shilpi Agrawal](https://twitter.com/shilpiagrawal55) long back. Originally published here itself. Written in quick 15 minutes.*
 
 
 
